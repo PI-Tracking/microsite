@@ -14,9 +14,17 @@ The main goal of this project is to identify and track criminals in a CCTV syste
 
 ## Team
 
-- David Amorim, 112610
-- Francisca Silva, 112841
-- Francisco Albergaria, 114646
-- Gabriel Santos, 113682
-- Guilherme Amaral, 113207
-- João Gaspar, 114514
+| Nmec | Name | Role |
+| --------------- | --------------- | --------------- |
+| 112610 | [David Amorim](https://github.com/davidffa) | DevOps |
+| 112841 | [Francisca Silva](https://github.com/FranciscaPedro) | Team Manager |
+| 114646 | [Francisco Albergaria](https://github.com/FranciscoAlbergaria) | Product Owner |
+| 113682 | [Gabriel Santos](https://github.com/GCapaross) | QA/Product Tester |
+| 113207 | [Guilherme Amaral](https://github.com/BirrasOBacano) | DBA |
+| 114514 | [João Gaspar](https://github.com/Affapple) | Architect |
+
+
+## Advisors
+
+- Teacher [Dr. Osvaldo Rocha Pacheco](https://www.ua.pt/pt/p/10313442)
+- Teacher [Dr. Gonçalo Carnaz](https://www.ua.pt/pt/p/80654160)
