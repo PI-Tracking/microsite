@@ -13,7 +13,7 @@ advantages for various applications, within the scope of security, crowd monitor
 analyzing behavior in closed environments or tracking people in
 video surveillance systems.
 
-- **Complete Overview**: [Tracking](../../static/documents/04%20Tracking.pdf)
+- **Complete Overview**: [Tracking](../../../static/documents/04%20Tracking.pdf)
 
 ## Key Features
 
