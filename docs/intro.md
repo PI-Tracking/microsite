@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## PI - Tracking Documentation
 
-## Getting Started
+This microsite contains all the internal documentation related to the "Tracking" project, developed in the [Informatics Project](https://www.ua.pt/pt/uc/12276) course of [Universidade de Aveiro](https://www.ua.pt/)
 
-Get started by **creating a new site**.
+## Abstract
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+The main goal of this project is to identify and track criminals in a CCTV system, potentially aiding in the criminal investigation process. To accomplish this, we use a ML-trained model to detect weapons and identify characteristics of the people carrying them, in order to re-identify them if they move to another camera. With that, thousands of hours of CCTV videos from multiple cameras could be analysed quicker, helping an investigation team to rapidly locate and track suspects.
 
-### What you'll need
+## Team
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- David Amorim, 112610
+- Francisca Silva, 112841
+- Francisco Albergaria, 114646
+- Gabriel Santos, 113682
+- Guilherme Amaral, 113207
+- João Gaspar, 114514
