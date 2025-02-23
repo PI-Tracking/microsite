@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Tracking was developed with objective of help solving crime investigations by detecting and tracking armed suspects.
+        Tracking was developed to help solve crime investigations by detecting and tracking armed suspects.
       </>
     ),
   },
