@@ -7,7 +7,7 @@ sidebar_position: 1
 ## Overview
 
 The identification/classification and tracking of people who have been deployed
-due to certain characteristics, for example, because they are in possession of a weapon, it is a
+due to certain characteristics, for example, because they are in possession of a weapon, is a
 technological and academic challenge. Just as real-time application can bring
 advantages for various applications, within the scope of security, crowd monitoring,
 analyzing behavior in closed environments or tracking people in
