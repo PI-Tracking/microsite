@@ -24,7 +24,7 @@ The main goal of this project is to identify and track criminals in a CCTV syste
 | 114514 | [João Gaspar](https://github.com/Affapple) | Architect |
 
 
-## Advisors
+## Supervisors
 
 - Teacher [Dr. Osvaldo Rocha Pacheco](https://www.ua.pt/pt/p/10313442)
 - Teacher [Dr. Gonçalo Carnaz](https://www.ua.pt/pt/p/80654160)
