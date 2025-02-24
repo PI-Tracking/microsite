@@ -58,9 +58,16 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'docsSidebar',
           position: 'left',
           label: 'Documentation',
+        },
+        {
+          href: "/documents/calendar.pdf",
+          label: "Calendar",
+          position: "left",
+          target: "_blank",
+          rel: 'noopener noreferrer'
         },
         {
           href: 'https://github.com/PI-Tracking',
