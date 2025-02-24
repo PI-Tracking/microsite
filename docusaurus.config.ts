@@ -70,6 +70,11 @@ const config: Config = {
           rel: 'noopener noreferrer'
         },
         {
+          to: "/minutes",
+          label: "Minutes",
+          position: "left",
+        },
+        {
           href: 'https://github.com/PI-Tracking',
           label: 'Backlog',
           position: 'right',
@@ -77,6 +82,10 @@ const config: Config = {
         {
           href: 'https://github.com/PI-Tracking',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          type: 'search',
           position: 'right',
         },
       ],
