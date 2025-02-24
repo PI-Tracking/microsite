@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Context
 
-- TBD
+Law enforcement uses surveillance systems to monitor urban areas and aid investigations. With dozens or even hundreds of cameras in cities, video analysis remains mostly manual, making it slow and inefficient. Traditional surveillance systems lack advanced features such as automatic weapon detection and continuous suspect tracking across multiple cameras, limiting their effectiveness in investigations.
 
 ## Problem
 

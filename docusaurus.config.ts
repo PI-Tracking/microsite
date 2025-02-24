@@ -52,8 +52,8 @@ const config: Config = {
     navbar: {
       title: 'Tracking',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Camera logo',
+        src: 'img/logo.jpeg',
       },
       items: [
         {
