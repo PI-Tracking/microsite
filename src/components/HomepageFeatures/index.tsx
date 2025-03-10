@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Process Made Simple',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/icons/process.svg').default,
     description: (
       <>
         Tracking was developed to help solve crime investigations by detecting and tracking armed suspects.
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/icons/focus.svg').default,
     description: (
       <>
         No need to watch thousands of hours of CCTV recordings in different cameras looking for suspects.
@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Innovative and flexible',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/icons/innovative.svg').default,
     description: (
       <>
         You can either upload video recordings from multiple cameras or connect to the live feed.
