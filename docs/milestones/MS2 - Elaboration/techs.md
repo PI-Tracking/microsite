@@ -18,6 +18,8 @@ sidebar_position: 7
 
 **Relational database:** PostgreSQL, a powerful, open source object-relational database management system (ORDBMS) known for its reliability, data integrity, and extensive feature set. Mainly used for storing the user accounts and the detection logs.
 
+**Database for storing logs:** MongoDB, a document-based database, assuring fast read/write operations.
+
 **GPU Workers:** Python/FastAPI, a modern, fast web framework for building APIs with python that supports asynchronous endpoints. We use Python for the GPU Workers because of the large Machine Learning library support and the YOLO library. To integrate this with the rest of the system, we use a RESTful API with FastAPI.
 
 **Results Broker:** Python/FastAPI
