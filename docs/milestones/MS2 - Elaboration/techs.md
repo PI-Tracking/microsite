@@ -12,7 +12,7 @@ sidebar_position: 7
 
 **Main REST API:** Spring boot, a Java framework that simplifies the development of a web app, its easy to setup and has high support. Because all the team members know how to work with this framework, we opted for using it for the main REST API of this project.
 
-**Image and file storage:** MinIO, a powerful and versatile object storage solution that can be used to store, manage, and retrieve large amounts of data.
+**Image and file storage:** MinIO, a powerful and versatile object storage solution that can be used to store, manage, and retrieve large amounts of data. We chose to use this because it is a Amazon S3 compatible storage, but allows self-hosting, so we can store the videos safely in our own machines, instead of using cloud-based products.
 
 **Workers Database:** Redis, a fast in-memory database that we can use to temporarily store the data from each GPU Worker, like a person features, etc. that is shared between all the GPU Workers.
 
