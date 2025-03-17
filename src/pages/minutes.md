@@ -19,4 +19,5 @@ This page contains a list of all the minutes that result from our team meetings.
 
 ## Construction Phase
 
-- 13th March - TBD
+- [13th March](/documents/minutes/Minute13thMarch.pdf)
+- [17th March](/documents/minutes/Minute17thMarch.pdf)
